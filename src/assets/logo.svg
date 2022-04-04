@@ -1,0 +1,83 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="g1" x1="55.3" y1="50.2" x2="944.7" y2="50.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#dba832"/>
+			<stop offset=".5" stop-color="#ecd092"/>
+			<stop offset="1" stop-color="#dba832"/>
+		</linearGradient>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f2" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f3" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f4" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f5" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f6" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f7" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f8" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f9" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f10" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f11" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f12" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f13" ><feDropShadow dx="0" dy="0" stdDeviation="2.0833333333333335" flood-color="#ffffbe" flood-opacity="1.5"/></filter>
+	</defs>
+	<style>
+		.s0 { fill: #231f20 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: #ffffff } 
+		.s3 { filter: url(#f1);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s4 { filter: url(#f2);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s5 { filter: url(#f3);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s6 { filter: url(#f4);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s7 { filter: url(#f5);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s8 { filter: url(#f6);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s9 { filter: url(#f7);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s10 { filter: url(#f8);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s11 { filter: url(#f9);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s12 { filter: url(#f10);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s13 { filter: url(#f11);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s14 { filter: url(#f12);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s15 { filter: url(#f13);fill: #2c2e35;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.9 } 
+		.s16 { fill: #2c2e35 } 
+	</style>
+	<ellipse id="Layer 1" class="s0" cx="500.5" cy="249.5" rx="478.5" ry="215.5"/>
+	<ellipse id="&lt;Path&gt;" class="s1" cx="500" cy="250.9" rx="444.7" ry="187.1"/>
+	<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s2" d="m987 250.1c0 65.4-53.4 125.1-150.3 168-90.4 40.1-209.9 62.2-336.7 62.2-126.8 0-246.3-22.1-336.7-62.2-96.9-42.9-150.3-102.6-150.3-168 0-65.3 53.4-125 150.3-168 90.4-40 209.9-62.1 336.7-62.1 126.8 0 246.3 22.1 336.7 62.1 96.9 43 150.3 102.7 150.3 168zm-25.4 0c0-113.2-206.4-204.7-461.6-204.7-255.2 0-461.6 91.5-461.6 204.7 0 113.3 206.4 204.8 461.6 204.8 255.2 0 461.6-91.5 461.6-204.8z"/>
+	<g id="&lt;Group&gt;">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s3" d="m226.3 251.5l-5.1-29.4h-23.7l-5.2 29.4h-21.2l25.3-115.5h27.2l24.2 115.5zm-13.9-79.1q-0.4-1.9-0.8-6-0.4-4-1.2-10.1 0-0.3-0.6-7.6h-0.2q-0.5 2.5-0.7 4.4-0.2 2-0.2 3.2-0.4 2.7-0.8 6.7-0.4 4.1-1.2 9.4l-6 32.8h17.1z"/>
+			<path id="&lt;Compound Path&gt;" class="s4" d="m304.7 222.9q0.2 1.4 0.2 2.9 0 1.5 0 2.7 0 25.2-27.9 25.2-10.5 0-17.5-5.6-10.1-7.9-8.4-25.2h18.5q-0.2 1.2-0.2 2.5 0 1.4 0 2.6 0 6.9 2.9 9.1 1.6 1.2 5.8 1.2 8 0 8-7.4 0-0.7-0.4-2.2-0.2-3.1-3.2-5.6-3-2.4-5.9-4.6l-10.1-7.6q-15.2-11.5-15.2-27.4 0-21.3 27.6-21.3 26.6 0 25.8 28.8h-18.6q0.6-13.4-8.6-13.4-7.7 0-7.7 7.1 0 4.9 7 10l15.1 11.3q4.1 2.2 8 7.6 4.6 5.6 4.8 9.3z"/>
+			<path id="&lt;Compound Path&gt;" class="s5" d="m352.5 251.5v-59.5q0-7.3-1.2-10.3-1.5-3.6-6.4-4.1-9.3-0.5-9.3 16.1v57.8h-18.6v-115.5h18.6v37.4h0.4q5.8-11.2 16.5-11.2 18.7 0 18.8 22.2v67.1z"/>
+			<path id="&lt;Compound Path&gt;" class="s6" d="m388.4 136h18.5v18.1h-18.5zm0 28.6h18.5v86.9h-18.5z"/>
+			<path id="&lt;Compound Path&gt;" class="s7" d="m442.4 201.3v50.2h-18.6v-86.9h18v15.4h0.2q3.1-8.8 7.3-12.6 4.2-3.8 11.4-4.5v23.7q-18.3-1.9-18.3 14.7z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s8" d="m506.1 251.5q-1.9-3.7-1.3-9h-0.4q-6.4 11.2-16 11.2-21.7 0-21.7-25.9 0-13.2 8.3-20.6 4.5-3.9 19.3-10.5 9.5-3.9 9.5-11.3 0-7.8-9.1-7.8-9.9 0-9.6 12.7h-17.8q-0.2-13.9 5.2-20.3 6.6-7.8 22.9-7.8 16.9 0 22.8 8.5 3.8 5.4 3.8 17.2v51.4q0 5.6 1.6 12.2zm-2.7-45.8q-2.7 1.7-6.4 4.4-3.7 2.7-8.6 6.7-3.1 2.4-3.1 10.5 0 11 8.8 11 7.1 0 8.7-8.6 0.6-2.9 0.6-14.7z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s9" d="m658.2 168.8q0 18.8-9.9 27.4-7.8 6.8-22.4 6.8h-13.4v48.5h-20v-115.5h40.8q24.9 0 24.9 32.8zm-20.4-0.8q0-9.8-4.5-12.9-3.1-2.2-11.8-2.2h-9v33.3h10.7q14.6 0 14.6-18.2z"/>
+			<path id="&lt;Compound Path&gt;" class="s10" d="m670.8 136h18.6v115.5h-18.6z"/>
+			<path id="&lt;Compound Path&gt;" class="s11" d="m741.3 251.5v-13h-0.2q-4.1 15.2-17.1 15.2-10.3 0-14.4-5.9-3.5-4.9-3.5-16.6v-66.6h18.3v59.5q0 8.1 2.1 11.1 2 3.1 5.5 3.1 8.7 0 8.7-17.4v-56.3h18.6v86.9z"/>
+			<path id="&lt;Compound Path&gt;" class="s12" d="m824.6 222.9q0.2 1.4 0.2 2.9 0 1.5 0 2.7 0 25.2-27.8 25.2-10.5 0-17.5-5.6-10.1-7.9-8.5-25.2h18.6q-0.3 1.2-0.3 2.5 0 1.4 0 2.6 0 6.9 2.9 9.1 1.7 1.2 5.8 1.2 8.1 0 8.1-7.4-0.1-0.7-0.5-2.2-0.2-3.1-3.2-5.6-3-2.4-5.8-4.6l-10.1-7.6q-15.3-11.5-15.3-27.4 0-21.3 27.6-21.3 26.6 0 25.8 28.8h-18.5q0.6-13.4-8.7-13.4-7.6 0-7.6 7.1 0 4.9 7 10l15 11.3q4.1 2.2 8.1 7.6 4.5 5.6 4.7 9.3z"/>
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s13" d="m422.8 319.9q0 18.9-9.9 27.4-7.8 6.9-22.5 6.9h-13.4v48.4h-20v-115.5h40.8q25 0 25 32.8zm-20.4-0.7q0-9.8-4.6-13-3-2.2-11.7-2.2h-9.1v33.3h10.7q14.7 0 14.7-18.1z"/>
+			<path id="&lt;Compound Path&gt;" class="s14" d="m506.3 402.6v-36.4q0-39.2 1.8-68.8h-0.2l-21.6 105.2h-12l-21-105.2h-0.8q0.8 13.2 1.2 30.2 0.4 17 0.4 38.6v36.4h-20v-115.5h32l10.7 53.6q2.3 12 3.7 26.7h0.4q0.4-4.9 1.2-11.5 0.7-6.6 1.7-15.2l10.9-53.6h31.8v115.5z"/>
+			<path id="&lt;Compound Path&gt;" class="s15" d="m629.6 402.6h-23.9l-8.1-45.5q-0.8-6.3-1.8-15.4-1.1-9.1-2.5-21.5h-0.4q-0.4 6.3-1.5 15.4-1 9-2.6 21.5l-7.3 45.5h-24.1l-20.4-115.5h20.8l9.1 62.9q0.6 4.4 1.5 13.8 1 9.5 2 24.2h0.2q0.6-7.6 1.8-17.8 1.1-10.2 2.7-23.4l9.9-59.7h16.5l10.8 59.7q0.4 3.2 1.6 13.4 1.2 10.1 2.9 27.8h0.2q0.4-3.2 0.6-8.4 1.3-15.1 3.1-29.6l8-62.9h20.7z"/>
+		</g>
+	</g>
+	<g id="&lt;Group&gt;">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s16" d="m226.3 251.5l-5.1-29.4h-23.7l-5.2 29.4h-21.2l25.3-115.5h27.2l24.2 115.5zm-13.9-79.1q-0.4-1.9-0.8-6-0.4-4-1.2-10.1 0-0.3-0.6-7.6h-0.2q-0.5 2.5-0.7 4.4-0.2 2-0.2 3.2-0.4 2.7-0.8 6.7-0.4 4.1-1.2 9.4l-6 32.8h17.1z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m304.7 222.9q0.2 1.4 0.2 2.9 0 1.5 0 2.7 0 25.2-27.9 25.2-10.5 0-17.5-5.6-10.1-7.9-8.4-25.2h18.5q-0.2 1.2-0.2 2.5 0 1.4 0 2.6 0 6.9 2.9 9.1 1.6 1.2 5.8 1.2 8 0 8-7.4 0-0.7-0.4-2.2-0.2-3.1-3.2-5.6-3-2.4-5.9-4.6l-10.1-7.6q-15.2-11.5-15.2-27.4 0-21.3 27.6-21.3 26.6 0 25.8 28.8h-18.6q0.6-13.4-8.6-13.4-7.7 0-7.7 7.1 0 4.9 7 10l15.1 11.3q4.1 2.2 8 7.6 4.6 5.6 4.8 9.3z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m352.5 251.5v-59.5q0-7.3-1.2-10.3-1.5-3.6-6.4-4.1-9.3-0.5-9.3 16.1v57.8h-18.6v-115.5h18.6v37.4h0.4q5.8-11.2 16.5-11.2 18.7 0 18.8 22.2v67.1z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m388.4 136h18.5v18.1h-18.5zm0 28.6h18.5v86.9h-18.5z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m442.4 201.3v50.2h-18.6v-86.9h18v15.4h0.2q3.1-8.8 7.3-12.6 4.2-3.8 11.4-4.5v23.7q-18.3-1.9-18.3 14.7z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s16" d="m506.1 251.5q-1.9-3.7-1.3-9h-0.4q-6.4 11.2-16 11.2-21.7 0-21.7-25.9 0-13.2 8.3-20.6 4.5-3.9 19.3-10.5 9.5-3.9 9.5-11.3 0-7.8-9.1-7.8-9.9 0-9.6 12.7h-17.8q-0.2-13.9 5.2-20.3 6.6-7.8 22.9-7.8 16.9 0 22.8 8.5 3.8 5.4 3.8 17.2v51.4q0 5.6 1.6 12.2zm-2.7-45.8q-2.7 1.7-6.4 4.4-3.7 2.7-8.6 6.7-3.1 2.4-3.1 10.5 0 11 8.8 11 7.1 0 8.7-8.6 0.6-2.9 0.6-14.7z"/>
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s16" d="m658.2 168.8q0 18.8-9.9 27.4-7.8 6.8-22.4 6.8h-13.4v48.5h-20v-115.5h40.8q24.9 0 24.9 32.8zm-20.4-0.8q0-9.8-4.5-12.9-3.1-2.2-11.8-2.2h-9v33.3h10.7q14.6 0 14.6-18.2z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m670.8 136h18.6v115.5h-18.6z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m741.3 251.5v-13h-0.2q-4.1 15.2-17.1 15.2-10.3 0-14.4-5.9-3.5-4.9-3.5-16.6v-66.6h18.3v59.5q0 8.1 2.1 11.1 2 3.1 5.5 3.1 8.7 0 8.7-17.4v-56.3h18.6v86.9z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m824.6 222.9q0.2 1.4 0.2 2.9 0 1.5 0 2.7 0 25.2-27.8 25.2-10.5 0-17.5-5.6-10.1-7.9-8.5-25.2h18.6q-0.3 1.2-0.3 2.5 0 1.4 0 2.6 0 6.9 2.9 9.1 1.7 1.2 5.8 1.2 8.1 0 8.1-7.4-0.1-0.7-0.5-2.2-0.2-3.1-3.2-5.6-3-2.4-5.8-4.6l-10.1-7.6q-15.3-11.5-15.3-27.4 0-21.3 27.6-21.3 26.6 0 25.8 28.8h-18.5q0.6-13.4-8.7-13.4-7.6 0-7.6 7.1 0 4.9 7 10l15 11.3q4.1 2.2 8.1 7.6 4.5 5.6 4.7 9.3z"/>
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s16" d="m422.8 319.9q0 18.9-9.9 27.4-7.8 6.9-22.5 6.9h-13.4v48.4h-20v-115.5h40.8q25 0 25 32.8zm-20.4-0.7q0-9.8-4.6-13-3-2.2-11.7-2.2h-9.1v33.3h10.7q14.7 0 14.7-18.1z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m506.3 402.6v-36.4q0-39.2 1.8-68.8h-0.2l-21.6 105.2h-12l-21-105.2h-0.8q0.8 13.2 1.2 30.2 0.4 17 0.4 38.6v36.4h-20v-115.5h32l10.7 53.6q2.3 12 3.7 26.7h0.4q0.4-4.9 1.2-11.5 0.7-6.6 1.7-15.2l10.9-53.6h31.8v115.5z"/>
+			<path id="&lt;Compound Path&gt;" class="s16" d="m629.6 402.6h-23.9l-8.1-45.5q-0.8-6.3-1.8-15.4-1.1-9.1-2.5-21.5h-0.4q-0.4 6.3-1.5 15.4-1 9-2.6 21.5l-7.3 45.5h-24.1l-20.4-115.5h20.8l9.1 62.9q0.6 4.4 1.5 13.8 1 9.5 2 24.2h0.2q0.6-7.6 1.8-17.8 1.1-10.2 2.7-23.4l9.9-59.7h16.5l10.8 59.7q0.4 3.2 1.6 13.4 1.2 10.1 2.9 27.8h0.2q0.4-3.2 0.6-8.4 1.3-15.1 3.1-29.6l8-62.9h20.7z"/>
+		</g>
+	</g>
+</svg>
