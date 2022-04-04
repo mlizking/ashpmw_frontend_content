@@ -50,7 +50,7 @@
       <v-card-text class="white--text">
         <v-icon size="14px"> mdi-copyright </v-icon> Copyright
         {{ new Date().getFullYear() }}. <br />All rights reserved. Powered by
-        Ashira Plus.
+        Ashira Plus. Develop by Keerati Rukmanee
       </v-card-text>
     </v-card>
   </v-footer>
