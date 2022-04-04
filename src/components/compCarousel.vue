@@ -36,10 +36,10 @@ export default {
       },
       {
         src: require('../assets/7.jpg')
-      },
-      {
-        src: require('../assets/logo.png')
       }
+      // {
+      //   src: require('../assets/logo.png')
+      // }
     ]
   })
 }

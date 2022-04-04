@@ -14,3 +14,8 @@ export default {
   })
 }
 </script>
+<style scoped>
+* {
+  font-family: "Prompt", sans-serif !important;
+}
+</style>
